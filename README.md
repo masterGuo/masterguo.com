@@ -1,2 +1,2 @@
 # masterguo.com
-[Account](account.md)
+[Account](Info/account.md)
