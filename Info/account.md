@@ -4,4 +4,4 @@
 
 <!-- /TOC -->
 # Xmarks
-    AdolphMaster/Adolphmaster@163.com
+    AdolphMaster_Adolphmaster@163.com
